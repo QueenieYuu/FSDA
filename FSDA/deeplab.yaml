@@ -1,0 +1,9 @@
+model:
+  type: deeplab
+dataset: 
+aug: 
+batch: 2
+epoch: 20
+lr: 0.002
+
+
